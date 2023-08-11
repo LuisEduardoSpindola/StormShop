@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AT56jaPETHU78LtnctLjsODQjDDV2THd4Q68wI7GElA=",
+  "Source": "StormShop.API",
+  "BasePath": "_content/StormShop.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
